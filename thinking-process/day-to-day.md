@@ -38,8 +38,20 @@ The experience for a new user in Twitch starts feeding the recommendation algori
 
 **If you, like me, don't have too many friends with experience in Twitch probable option 3 is worthless**. By the way, what is the point of having a _search_ option at the beginning of a recommendation system path? 🤷🏻‍♂️ **Option 2 will depend too many factors (time, day, viewer count, channel exposure, channel promotion)** but ultimately featured channels are related to how much channels can afford [advertisement](https://twitchadvertising.tv/) by Twitch.
 
-![](https://github.com/carian2996/getting-started-twitch/blob/master/thinking-process/images/donald-money.gif?raw=true "Twitch Capitalist")
+![](https://github.com/carian2996/getting-started-twitch/blob/master/thinking-process/images/money.gif?raw=true "Twitch Capitalist")
 
-What is left for the true seekers of real content? Categories. The only issue is that, traditionally, **Twitch has one category by each popular video game and then merge the rest into the undervalued category called _Just Chatting_**. You can imagine how chaotic this category can be. **I'll address categories next**.
+What is left for the true seekers of real content? Categories. The only issue is that, traditionally, **Twitch has one category by each popular video game and then merge the rest into the undervalued category called _Just Chatting_**. You can imagine how chaotic this category could be. **I'll address more in depth these categories**.
 
 ## Day 2
+
+Now that I've decided where to start (_Categories_) it's time to get into the [new Twitch API](https://dev.twitch.tv/docs/api).
+
+![](https://github.com/carian2996/getting-started-twitch/blob/master/thinking-process/images/lets-do-it.jpg?raw=true "Let's Do It")
+
+The API is pretty intuitive: get and post methods. I'd say it's only matter of time to get used to it and then we can start analyzing all data required to answer my questions. 
+
+**I always try to search previous work and not reinvent the wheel**. That's how I found [Tomaz](https://github.com/tsifrer/python-twitch-client)'s python client and also [Petter](https://github.com/PetterKraabol/Twitch-Python)'s client. Both awesome works but I have a [major blocker](https://discuss.dev.twitch.tv/t/requiring-oauth-for-helix-twitch-api-endpoints/23916) and decided not use their clients. Hopefully I wont fight to much since Twitch developers have documented pretty well the API and **I already test a first approach to download data using the interface**.
+
+![](https://github.com/carian2996/getting-started-twitch/blob/master/thinking-process/images/api-intro.jpg?raw=true "API Intro Snippet")
+
+Tomorrow I'll start dig into the [_Categories_](https://dev.twitch.tv/docs/api/reference#search-categories) API section to look whats features I can found 🙃

@@ -1,2 +1,10 @@
 
 *.code-workspace
+
+twitch-venv/
+
+*.png
+
+notebooks/.ipynb_checkpoints/
+
+notebooks/secrets/
