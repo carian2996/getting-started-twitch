@@ -20,7 +20,7 @@ After signing up into Twitch the party begins. Not really, we need to set up a b
 
 A Verge's [article](https://www.theverge.com/2019/9/25/20883683/twitch-recommendation-algorithm-discover-new-streamers-category-please-help-me) said it one time: **_Discovering new streamers is like surfing live TV without a channel guide_**.
 
-![](https://raw.githubusercontent.com/carian2996/getting-started-twitch/master/thinking-process/kappa.jpg "Kappa")
+![](https://github.com/carian2996/getting-started-twitch/blob/master/thinking-process/images/kappa.jpg?raw=true "Kappa")
 
 [Bijan Stephen](https://www.twitch.tv/bijanstephen) from Verge wrote in the article above: 
 
@@ -38,7 +38,7 @@ The experience for a new user in Twitch starts feeding the recommendation algori
 
 **If you, like me, don't have too many friends with experience in Twitch probable option 3 is worthless**. By the way, what is the point of having a _search_ option at the beginning of a recommendation system path? 🤷🏻‍♂️ **Option 2 will depend too many factors (time, day, viewer count, channel exposure, channel promotion)** but ultimately featured channels are related to how much channels can afford [advertisement](https://twitchadvertising.tv/) by Twitch.
 
-![](https://raw.githubusercontent.com/carian2996/getting-started-twitch/master/thinking-process/money.gif "Twitch Capitalist")
+![](https://github.com/carian2996/getting-started-twitch/blob/master/thinking-process/images/donald-money.gif?raw=true "Twitch Capitalist")
 
 What is left for the true seekers of real content? Categories. The only issue is that, traditionally, **Twitch has one category by each popular video game and then merge the rest into the undervalued category called _Just Chatting_**. You can imagine how chaotic this category can be. **I'll address categories next**.
 
