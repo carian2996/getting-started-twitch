@@ -11,7 +11,7 @@ Twitch can be an exciting platform but at the same time being so overwhelming. W
 So, the first thing to worry about is defining the following concepts:
 
 1. Life Path for New Users
-2. It's All ABout Categories
+2. It's All About Categories
 3. Clips and Hosting
 4. Partnership and Small Channels
 
@@ -19,6 +19,8 @@ So, the first thing to worry about is defining the following concepts:
 After signing up into Twitch the party begins. Not really, we need to set up a bunch of parameters so the platform can give us the first recommendations. And even with that those recommendation are not going to make a Twitch expert or ensure you gonna love the content.
 
 A Verge's [article](https://www.theverge.com/2019/9/25/20883683/twitch-recommendation-algorithm-discover-new-streamers-category-please-help-me) said it one time: **_Discovering new streamers is like surfing live TV without a channel guide_**.
+
+![](https://raw.githubusercontent.com/carian2996/getting-started-twitch/master/thinking-process/kappa.jpg "Kappa")
 
 [Bijan Stephen](https://www.twitch.tv/bijanstephen) from Verge wrote in the article above: 
 
@@ -28,8 +30,16 @@ Unfortunately for me I didn't have to many "online friends" to give me recommend
 
 So, because I'm human (and also I need to do other things) I want to translate this _discovery process_ into something more robust and analytical. **My goal with all this is to facilitate the discovery and personalization for new users in Twitch**.
 
-### 2. It's All About Categories
-### 3. Clips and Hosting
-### 4. Partnership and Small Channels
+The experience for a new user in Twitch starts feeding the recommendation algorithm. So you have three options:
+
+1. Categories
+2. Live Channels
+3. Search
+
+**If you, like me, don't have too many friends with experience in Twitch probable option 3 is worthless**. By the way, what is the point of having a _search_ option at the beginning of a recommendation system path? 🤷🏻‍♂️ **Option 2 will depend too many factors (time, day, viewer count, channel exposure, channel promotion)** but ultimately featured channels are related to how much channels can afford [advertisement](https://twitchadvertising.tv/) by Twitch.
+
+![](https://raw.githubusercontent.com/carian2996/getting-started-twitch/master/thinking-process/money.gif "Twitch Capitalist")
+
+What is left for the true seekers of real content? Categories. The only issue is that, traditionally, **Twitch has one category by each popular video game and then merge the rest into the undervalued category called _Just Chatting_**. You can imagine how chaotic this category can be. **I'll address categories next**.
 
 ## Day 2
